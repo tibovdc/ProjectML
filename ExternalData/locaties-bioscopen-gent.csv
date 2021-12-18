@@ -1,0 +1,4 @@
+Geometry;et_id;naam;ligging;geo_point_2d
+"{""coordinates"": [3.721641058971095, 51.05370721294204], ""type"": ""Point""}";;Sphinx;Sint-Michielshelling 3;51.0537072129,3.72164105897
+"{""coordinates"": [3.733817443271271, 51.04877814791104], ""type"": ""Point""}";;Studio Skoop;Sint-Annaplein 63;51.0487781479,3.73381744327
+"{""coordinates"": [3.730197656681066, 51.04065942566722], ""type"": ""Point""}";;Kinepolis Gent;Ter Platen 12;51.0406594257,3.73019765668

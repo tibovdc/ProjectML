@@ -1,0 +1,8 @@
+Geometry;naam;adres;thema;gemeente;pcode;geo_point_2d
+"{""coordinates"": [3.727022645750979, 51.0419289321658], ""type"": ""Point""}";Sint-Pietersabdij;Sint-Pietersplein 9-15;Historische Huizen;Gent;9000;51.0419289322,3.72702264575
+"{""coordinates"": [3.724902663901287, 51.05452085228226], ""type"": ""Point""}";Stadhuis;Botermarkt 1;Historische Huizen;Gent;9000;51.0545208523,3.7249026639
+"{""coordinates"": [3.720650638522576, 51.05715532133108], ""type"": ""Point""}";Gravensteen;Sint-Veerleplein 11;Historische Huizen;Gent;9000;51.0571553213,3.72065063852
+"{""coordinates"": [3.736423363384014, 51.05399951750539], ""type"": ""Point""}";Sint-Baafsabdij;Coyendanspark 1;Historische Huizen;Gent;9000;51.0539995175,3.73642336338
+"{""coordinates"": [3.72175103521975, 51.05159869110508], ""type"": ""Point""}";Stadspaleis Hotel d'Hane-Steenhuyse;Veldstraat 51-55;Historische Huizen;Gent;9000;51.0515986911,3.72175103522
+"{""coordinates"": [3.721220249464439, 51.051529618742656], ""type"": ""Point""}";Stadspaleis Museum Arnold Vander Haeghen;Velstraat 82;Historische Huizen;Gent;9000;51.0515296187,3.72122024946
+"{""coordinates"": [3.72498083350068, 51.05367432747621], ""type"": ""Point""}";Belfort;Botermarkt 17-18;Historische Huizen;Gent;9000;51.0536743275,3.7249808335
